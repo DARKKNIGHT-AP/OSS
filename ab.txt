@@ -2,3 +2,4 @@ Ohio_oji_sama
 arigatto_des
 domo
 example_text
+text__2
