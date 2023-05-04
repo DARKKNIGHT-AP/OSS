@@ -3,3 +3,6 @@ arigatto_des
 domo
 example_text
 text__2
+
+
+sample_part_2
